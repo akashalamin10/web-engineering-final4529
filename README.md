@@ -55,7 +55,7 @@
 <h3 style="color: #e67e22;">⚙️ Installation Guide</h3>
 <ol style="font-size: 16px;">
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/akashalamin10/web-lab-evaluation-final.git</code></pre>
+    <pre><code>git clone https://github.com/akashalamin10/web-engineering-final4529.git</code></pre>
   </li>
   <li>Go to <code>http://localhost/phpmyadmin</code> and create a new database:
     <pre><code>student_management</code></pre>
